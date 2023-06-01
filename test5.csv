@@ -1,0 +1,3 @@
+,Patient Number,Patient Last Name,Patient First Name,Patient MI,Patient DOB,Patient Primary Insur,Policy_id,pp_coverage,pp_current_plan_name,pp_copayment
+0,5773180,Gordon,Mark,,1963-12-11,Priority Health,947596122,Active Coverage,Fully Funded HMO(Health Maintenance Organization (HMO)),$20.00
+1,5716270,Brzozowski,Robert,,1958-07-11,Wellcare Health,25951140,Active Coverage,Dual Access (HMO-POS D-SNP) (H5475001000),$0.0
